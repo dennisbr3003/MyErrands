@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Taken</string>
+    <string name="_title">Taken lijst</string>
+    <string name="_sub_title">V1.0</string>
+    <string name="_confirm_delete">Deze taak wordt uit de lijst verwijderd. Weet u het zeker?</string>
+    <string name="_dialog_negative">Nee</string>
+    <string name="_dialog_positive">Ja</string>
+    <string name="_errand_hint">Voeg nieuwe taak of herinnering toe</string>
+    <string name="_test">test</string>
+    <string name="_delete">Verwijderen</string>
+    <string name="_add">Toevoegen</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Errands</string>
+    <string name="_title">Todo list</string>
+    <string name="_sub_title">V1.0</string>
+    <string name="_confirm_delete">This will delete an entry from the list. Are you sure?</string>
+    <string name="_dialog_negative">No</string>
+    <string name="_dialog_positive">Yes</string>
+    <string name="_errand_hint">Add new task or reminder</string>
+    <string name="_test">test</string>
+    <string name="_delete">Delete</string>
+    <string name="_add">Add</string>
+</resources>
