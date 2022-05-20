@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void setupLogo(){
-        // added a comment line for git
+        // added a comment line for git + extra comments for branch 'extra_comments'
         getSupportActionBar().setDisplayShowHomeEnabled(true);
         getSupportActionBar().setLogo(R.drawable.ic_logo_padding);
         getSupportActionBar().setTitle(R.string._title);
